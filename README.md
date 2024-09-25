@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkhare20&label=Profile%20views&color=0e75b6&style=flat" alt="yashkhare20" /> </p>
 
-- 🌱 I’m currently learning **R, Supervised ML**
+- 🌱 I’m currently learning **NLP, Unsupervised ML**
 
-- 💬 Ask me about **SQL, Data Pipelines, GCP**
+- 💬 Ask me about **SQL, Data Pipelines, GCP, R, LLMs**
 
 - 📫 How to reach me **khare.y@northeastern.edu**
 
